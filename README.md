@@ -48,7 +48,7 @@ I am a Full Stack developer.
 
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-Manginot%20Hugo-black?style=for-the-badge&logo=Linkedin)](https://fr.linkedin.com/in/hugo-manginot-56450a1a3)
+[![Linkedin](https://img.shields.io/badge/-Duchanois%20Geoffrey-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/geoffrey-duchanois-8145521ba/)
 ### Stats 📈
 
 <img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=ReDodge&hide=stars&show_icons=true&theme=blueberry" />
