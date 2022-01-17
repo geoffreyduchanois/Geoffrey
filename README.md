@@ -51,6 +51,6 @@ I am a Full Stack developer.
 [![Linkedin](https://img.shields.io/badge/-Duchanois%20Geoffrey-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/geoffrey-duchanois-8145521ba/)
 ### Stats 📈
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=ReDodge&hide=stars&show_icons=true&theme=blueberry" />
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=geoffreyduchanois&hide=stars&show_icons=true&theme=blueberry" />
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDodge&layout=compact&theme=blueberry" /> 
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffreyduchanois&layout=compact&theme=blueberry" /> 
