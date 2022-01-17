@@ -2,6 +2,7 @@
 <h1>👋 I am Duchanois Geoffrey.</h2> 
 </p>
 
+A former engineering student, that's why I like tech and science !
 A curious IT student and a motivated individual.  
 I have a Bachelor degree from, <b>Epitech</b>.  
 I am a Full Stack developer.
